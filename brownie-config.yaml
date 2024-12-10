@@ -1,0 +1,4 @@
+networks:
+  development:
+    gas_price: 20 gwei
+    gas_limit: 3000000
